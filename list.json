@@ -1,0 +1,34 @@
+{
+  "TaskList": [
+    {
+      "id": 1,
+      "name": "Wyrzuć śmieci",
+      "date": "Dzisiaj",
+      "completed": true
+    },
+    {
+      "id": 2,
+      "name": "Pozmywaj kurze",
+      "date": "Jutro",
+      "completed": true
+    },
+    {
+      "id": 3,
+      "name": "Zrób pranie",
+      "date": "Czwartek",
+      "completed": true
+    },
+    {
+      "id": 4,
+      "name": "Umyj psa",
+      "date": "Piątek",
+      "completed": false
+    },
+    {
+      "id": 5,
+      "name": "Zjedz obiad",
+      "date": "Piątek",
+      "completed": true
+    }
+  ]
+}
